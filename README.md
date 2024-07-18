@@ -2,6 +2,8 @@
 
 ## Install dependencies
 
+0. [Our demonstration video](https://www.youtube.com/watch?v=s5Fo2wNPWAw)
+
 1. Do the following before installing the dependencies found in `requirements.txt` file because of current challenges installing `onnxruntime` through `pip install onnxruntime`. 
 
     - For MacOS users, a workaround is to first install `onnxruntime` dependency for `chromadb` using:
